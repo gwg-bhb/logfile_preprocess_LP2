@@ -12,3 +12,4 @@ dec:对应解码过程    执行命令: ./dec  example_enc.log example_dec.log
 其中example_in.log 为原始日志文件，example_enc.log为预处理后生成的文件
 example_dec.log为还原的日志文件
 
+ 
